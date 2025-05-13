@@ -40,14 +40,16 @@ The system integrates:
     ↓ Mirror Projection
 [HUD Lens on Glasses]
 
+---
+
 ## PCB - Design
 
-![Sight Sync HUD Glasses](assets/pcb.jpg)
+![PCB](assets/pcb.jpg)
 
 ## Integrated System
 
-![Sight Sync HUD Glasses](assets/project.jpg)
+![Project Assembly](assets/project.jpg)
 
 ## 📸 Demo – Device Photo in Use
 
-![Sight Sync HUD Glasses](assets/fullproject.jpg)
+![Full System](assets/fullproject.jpg)
