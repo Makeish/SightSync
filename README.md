@@ -28,7 +28,6 @@ The system integrates:
 - ✅ Hands-free, wearable format for accessibility
 
 ---
-
 ## 🧠 System Architecture
 
 ```plaintext
@@ -45,11 +44,3 @@ The system integrates:
 ## PCB - Design
 
 ![PCB](assets/pcb.jpg)
-
-## Integrated System
-
-![Project Assembly](assets/project.jpg)
-
-## 📸 Demo – Device Photo in Use
-
-![Full System](assets/fullproject.jpg)
