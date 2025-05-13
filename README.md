@@ -44,14 +44,10 @@ Reference App Development Github: https://github.com/raveenm/Speech.git
 ```
 ---
 
-## PCB - Design
+## PCB Design
 
 ![PCB](assets/pcb.jpg)
 
 ## Integrated System
 
 ![Project Assembly](assets/project.jpg)
-
-## 📸 Demo – Device Photo in Use
-
-![Full System](assets/fullproject.jpg)
