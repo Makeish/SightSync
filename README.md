@@ -17,6 +17,9 @@ The system integrates:
 - I2C-driven OLED display for real-time text projection
 - Custom-designed mirror-lens HUD for transparent viewing
 
+Reference Hardware Github: https://github.com/ahmedalduuyher/SightSync-AI-Glasses-Capstone-Project-.git
+Reference App Development Github: https://github.com/raveenm/Speech.git
+
 ---
 
 ## ⚙️ Features
@@ -38,9 +41,17 @@ The system integrates:
 [OLED Display]
     ↓ Mirror Projection
 [HUD Lens on Glasses]
-
+```
 ---
 
 ## PCB - Design
 
 ![PCB](assets/pcb.jpg)
+
+## Integrated System
+
+![Project Assembly](assets/project.jpg)
+
+## 📸 Demo – Device Photo in Use
+
+![Full System](assets/fullproject.jpg)
