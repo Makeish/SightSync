@@ -51,3 +51,11 @@ Reference App Development Github: https://github.com/raveenm/Speech.git
 ## Integrated System
 
 ![Project Assembly](assets/project.jpg)
+
+## App Home Screen
+
+![Project Assembly](assets/screen.png)
+
+## Transcribed View
+
+![Project Assembly](assets/transcribed.png)
